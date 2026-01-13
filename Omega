@@ -1,0 +1,41 @@
+index.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Omega Card Trade HUB Center</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 2rem;
+      background: #f4f4f4;
+    }
+    header {
+      background: #222;
+      color: #fff;
+      padding: 1rem;
+      border-radius: 6px;
+    }
+    section {
+      background: #fff;
+      padding: 1rem;
+      margin-top: 1rem;
+      border-radius: 6px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Local MTG Trade Center</h1>
+  <p>Local-only Magic: The Gathering trades at trusted game stores</p>
+</header>
+
+<section>
+  <h2>Welcome</h2>
+  <p>This site will allow local players to post cards they are looking for and complete trades in person.</p>
+</section>
+
+</body>
+</html>
